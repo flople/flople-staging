@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flople-staging/static/css/main.9b9f53a4.css",
-    "main.js": "/flople-staging/static/js/main.d22c5b94.js",
+    "main.js": "/flople-staging/static/js/main.109bcefd.js",
     "static/js/787.a268604c.chunk.js": "/flople-staging/static/js/787.a268604c.chunk.js",
     "static/media/KS.svg": "/flople-staging/static/media/KS.429c5cee6c3543169e210097e9c4c76c.svg",
     "static/media/KH.svg": "/flople-staging/static/media/KH.e9f1f2b228101687035fde5a8cc36fb0.svg",
@@ -58,11 +58,11 @@
     "static/media/AD.svg": "/flople-staging/static/media/AD.843069d9fae8c6220060793ed3ffd555.svg",
     "static/media/back.svg": "/flople-staging/static/media/back.eb0ed9a06c92d3a06147853ee0a7b883.svg",
     "main.9b9f53a4.css.map": "/flople-staging/static/css/main.9b9f53a4.css.map",
-    "main.d22c5b94.js.map": "/flople-staging/static/js/main.d22c5b94.js.map",
+    "main.109bcefd.js.map": "/flople-staging/static/js/main.109bcefd.js.map",
     "787.a268604c.chunk.js.map": "/flople-staging/static/js/787.a268604c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b9f53a4.css",
-    "static/js/main.d22c5b94.js"
+    "static/js/main.109bcefd.js"
   ]
 }
